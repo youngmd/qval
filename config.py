@@ -1,0 +1,1 @@
+qstat_cmd = 'qstat -Qf'
